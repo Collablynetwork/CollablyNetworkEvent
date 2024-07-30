@@ -88,7 +88,7 @@ function editMessage(chatId, messageId, text, type, bot) {
 }
 
 function sendThankYouMessage(chatId, bot) {
-  bot.sendMessage(chatId, 'Thank you for your submission. Please ping Hi @CMA_CMO to get data of potential partners.');
+  bot.sendMessage(chatId, 'Thank you for your submission. Please DM Hi @CollablyNetworkAdmin. Updated data of potential partners will be sent just before event.');
 }
 
 function sendToGoogleSheet(data) {
