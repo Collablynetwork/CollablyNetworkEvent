@@ -88,7 +88,7 @@ function editMessage(chatId, messageId, text, type, bot) {
 }
 
 function sendThankYouMessage(chatId, bot) {
-bot.sendMessage(chatId, 'Thank you for submitting the form. Please join @W3Bpartner group for updates.\n\nEvent details and potential partners will be shared before the event based on your availability.');
+bot.sendMessage(chatId, 'Thank you for submitting the form. Please join @W3Bpartner group for updates.\n\nEvent details and potential partners will be shared before the event based on your selected availablity/preferences.');
 }
 
 function sendToGoogleSheet(data) {
