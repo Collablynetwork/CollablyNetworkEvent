@@ -5,7 +5,7 @@ const projectTypes = [
   'CEX', 'Venture Capital', 'Market Maker', 'Launchpad', 'DEX', 'DeFi', 'BRC20',
   'NFT', 'SocialFi', 'Gaming', 'Metaverse', 'Wallet', 'Security Audit', 'DePIN',
   'RWA', 'AI', 'TON', 'Meme', 'Layer 0','Layer 1', 'Layer 2(s)', 'Layer 3', 'Angel Investor', 'OTC', 'Liquidity Provider', 'Dapp', 'Infrastructure', 
-  'PaymentGateway', 'Quest Platform', 'Development', 'Design', 'Consulting', 'Incubator', 'KOLs', 'Press Release', 'Marketing Firm',
+  'PaymentGateway', 'Quest Platform', 'Development', 'Design', 'Press Release', 'Marketing Firm', 'Consulting', 'Incubator', 'KOLs', 'Youtuber', 'Instagram Influencer', 'Twitter Influencer',  
   
 ];
 
