@@ -1,4 +1,4 @@
-const BOT_API_KEY = '7253558538:AAHCvUuSgNJ9U06OW4oTRyfaLXUGZKvEIJw';
+const BOT_API_KEY = '6335353291:AAHwopmee3eshn3CC5rCk5QpQvz7HMyVXgk';
 const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbz8AStDePUMEBT2k5aq1QqRaSqS3_OV36mfpYogX1L2-O0Hjqn-l6EVTLkUgXG6RJsJbw/exec';
 
 const projectTypes = [
@@ -9,6 +9,6 @@ const projectTypes = [
   
 ];
 
-const eventTypes = ['Token2049', 'Tobi&Brent', 'DeGen Summit', 'None of the above'];
+const eventTypes = ['Token2049', 'Tobi&Brent', 'DeGen Summit', 'MaalChain', 'None of the above'];
 
 module.exports = { BOT_API_KEY, WEBHOOK_URL, projectTypes, eventTypes };
