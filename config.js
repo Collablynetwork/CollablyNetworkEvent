@@ -9,6 +9,6 @@ const projectTypes = [
   
 ];
 
-const eventTypes = ['Token2049', 'Tobi&Brent', 'DeGen Summit', 'MaalChain', 'L3 & ZK Night', 'The Scaling AI Summit', 'Multichain Day', 'Borderless Summit', 'Meet your Meme', 'Aptos After Dark', 'DePIN Day', 'MEMECON', 'Devcon Thailand', 'IBW India', 'De.Fi World2024', 'None of the above'];
+const eventTypes = ['IBW India', 'Token2049 Dubai', 'None of the above'];
 
 module.exports = { BOT_API_KEY, WEBHOOK_URL, projectTypes, eventTypes };
